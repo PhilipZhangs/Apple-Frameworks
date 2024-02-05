@@ -1,6 +1,6 @@
-Learning SwiftUI and building an app that uses MVVM architecture.
+# Learning SwiftUI and building an app that uses MVVM architecture.
 
-Press on a framework to bring up a detailedView and to learn more about the framework!
+Press on a framework to bring up a detailed view and to learn more about the framework.
 
 **List View**
 ![Screen Shot 2024-02-05 at 12 48 45 PM](https://github.com/PhilipZhangs/Apple-Frameworks/assets/73215906/74bfdb55-2ba9-4faa-8665-33b3af4ca9d9)
