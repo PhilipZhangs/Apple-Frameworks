@@ -4,7 +4,7 @@ Welcome to the Apple Frameworks Showcase! In this project, I am learning SwiftUI
 
 ### App Features
 
-- Explore frameworks in different views: List, Grid, and Detailed View.
+- Explore frameworks in different views: List or Grid.
 - Press on a framework to bring up a detailed view and learn more about its features.
 
 ### Framework Previews
@@ -18,4 +18,4 @@ Welcome to the Apple Frameworks Showcase! In this project, I am learning SwiftUI
 **Detail View**
 ![Detail View](https://github.com/PhilipZhangs/Apple-Frameworks/assets/73215906/875e302c-ccc3-4a8d-b384-9f3ae9bdd160)
 
-Feel free to explore the Apple Frameworks Showcase, and dive into the details of each framework to enhance your SwiftUI and MVVM skills.
+Feel free to explore the Apple Frameworks Showcase, and dive into the details of each framework to enhance your skills
